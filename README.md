@@ -1,2 +1,1 @@
-# git_test
-Practising
+John is just practising some Git stuff here.
